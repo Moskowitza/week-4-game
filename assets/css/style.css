@@ -1,4 +1,51 @@
-.crystal-image {
-    width: 200px;
-    height:200px;
+img {
+    width: 100px;
+  height: 100px;
+
   }
+ #number-to-guess{
+   background: pink;
+   width:300px;
+   padding:10px;
+   font: 35px arial, sans-serif;
+
+ }
+ #sumOfGems { 
+  background: pink;
+  width:300px;
+  padding:10px;
+  font-weight: bold;
+  font: 35px arial, sans-serif;
+
+ }
+ body{
+   background-image: url("https://physicsworld.com/wp-content/uploads/2012/07/cartlidge1.jpg")
+ }
+ #rules{
+   background: lavender;
+   width: 600px;
+   font-weight: bold;
+ }
+#wins{ 
+  background: pink;
+  width:300px;
+  padding:10px;
+  font-weight: bold;
+ }
+ #losses{ 
+  background: pink;
+  width:300px;
+  padding:10px;
+  font-weight: bold;
+ }
+ #scoreBoard{
+  background:plum;
+  width:300px;
+  padding:10px;
+ }
+
+#gameName{
+   background: peachpuff;
+   width:300px;
+   padding:10px;
+ }
